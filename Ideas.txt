@@ -1,4 +1,0 @@
-Inno installer
-portable nmap
-login
-show sys specs and logo - like fastfetch
